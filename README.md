@@ -3,7 +3,8 @@
 
 storytelling On Daily Exchange Rates Per Euro 1999-2020  
 
-  ![](https://github.com/SheikhEbadaBinAshraf/StoryTelling-On-EURO/blob/main/Euro-USD%20rate%20change.png?raw=true) 
+  ![](https://github.com/SheikhEbadaBinAshraf/StoryTelling-On-EURO/blob/main/storytelling%20on%20Euro%20exchange%20rate.png?raw=true)  
+
 
 Libraries Used:  
   
